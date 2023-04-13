@@ -1,7 +1,8 @@
 # seesaw
 ### eslint configuration
 # start
-<link> npm i eslint </link>
+<a> npm i eslint </a>
+
 git clone this repositories
 
 # enjoy😊
